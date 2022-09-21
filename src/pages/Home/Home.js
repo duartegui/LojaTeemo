@@ -5,12 +5,12 @@ import './Home.css'
 function Home () {
     return (
         <Grid container xs={12} direction='column'justifyContent="center"
-        alignItems="flex-start" >
-            <Grid xs={12}>
+        alignItems="center" >
+            
                 <Box>
-                    <img src='https://mobimg.b-cdn.net/v3/fetch/d1/d198ca935f58dcd2d1f9eef823da1a4f.jpeg' className='cog'/>
+                    <img src="https://imageup.me/images/a919fd59-3e1b-4d32-bde4-d02f0cd2782d.png" className='cog'/>
                 </Box>
-            </Grid>
+           
         </Grid>
     )
 
